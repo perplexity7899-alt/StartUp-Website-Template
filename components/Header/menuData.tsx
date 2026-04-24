@@ -80,5 +80,11 @@ const menuData: Menu[] = [
       },
     ],
   },
+  {
+    id: 5,
+    title: "GitHub",
+    path: "https://github.com/nandish-tech1",
+    newTab: true,
+  },
 ];
 export default menuData;
